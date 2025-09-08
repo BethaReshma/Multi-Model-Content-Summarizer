@@ -1,0 +1,66 @@
+# ----------------
+# Python
+# ----------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.env
+.env.*
+*.egg-info/
+.venv/
+venv/
+env/
+pip-wheel-metadata/
+.mypy_cache/
+.pytest_cache/
+.cache/
+
+# ----------------
+# FastAPI / Backend
+# ----------------
+/backend/__pycache__/
+/backend/*.db
+/backend/.env
+
+# ----------------
+# Node / Frontend
+# ----------------
+/frontend/node_modules/
+/frontend/.next/
+/frontend/out/
+/frontend/.env.local
+/frontend/.env.development.local
+/frontend/.env.test.local
+/frontend/.env.production.local
+
+# ----------------
+# OS / IDE
+# ----------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ----------------
+# Docker
+# ----------------
+*.pid
+*.seed
+*.tar
+*.sock
+.docker/
+docker-compose.override.yml
+
+# ----------------
+# Build / Dist
+# ----------------
+dist/
+build/
+*.egg
+*.whl
