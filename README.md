@@ -1,4 +1,4 @@
-# Multimodal Summarizer
+# Multimodel Summarizer
 
 ## 🚀 Run Locally
 
