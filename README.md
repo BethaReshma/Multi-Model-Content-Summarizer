@@ -1,4 +1,4 @@
-# Multimodal Summarizer (Full Project)
+# Multimodal Summarizer
 
 ## 🚀 Run Locally
 
